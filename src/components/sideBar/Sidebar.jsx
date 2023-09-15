@@ -24,6 +24,7 @@ import { DarkModeContext } from '../../context/darkModeContext';
                 <span className='logo'>Admin</span>
                 </Link>
             </div>
+            
             <hr />
             <div className="center">
                 <ul>
